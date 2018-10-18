@@ -29,3 +29,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 
 ng serve --port 3000 --open
+
+
+
+npm install bootstrap@4.1.1
