@@ -31,10 +31,10 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ng serve --port 3000 --open
 
 
-
-npm install bootstrap@4.1.1
-
- angular.json 
+Adding Bootstrap.
+1. npm install bootstrap@4.1.1
+2. angular.json 
+ 
  "styles": [
     "src/styles.css",
     "node_modules/bootstrap/dist/css/bootstrap.min.css"
