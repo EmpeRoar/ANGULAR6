@@ -33,3 +33,9 @@ ng serve --port 3000 --open
 
 
 npm install bootstrap@4.1.1
+
+ angular.json 
+ "styles": [
+    "src/styles.css",
+    "node_modules/bootstrap/dist/css/bootstrap.min.css"
+ ], 
